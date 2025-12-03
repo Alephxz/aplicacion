@@ -47,4 +47,4 @@ el programa tiene 3 usuarios anteriormente que son admin,productos, almacen
 # Interfaz:
 la interfaz utiliza el framework de CTinker
 ejemplo:
-![Pantalla de inicio](inicio.png)
+![Pantalla de inicio](./logosunison/inicio.png)
