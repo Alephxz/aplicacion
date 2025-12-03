@@ -61,3 +61,7 @@ ejemplo:
 # Capturas
 - Login:
   ![Pantalla de login](./logosunison/login.png)
+- pantalla de inicio:
+  ![Pantalla de inicio](./logosunison/inicio.png)
+- Productos:
+  ![prodcutos](./logosunison/productos.png)
