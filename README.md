@@ -48,3 +48,20 @@ el programa tiene 3 usuarios anteriormente que son admin,productos, almacen
 la interfaz utiliza el framework de CTinker
 ejemplo:
 ![Pantalla de inicio](./logosunison/inicio.png)
+
+# Desafios/Soluciones:
+- Programar en phyton: desafio: mi primer y mas grande problema fue aprender a programar (al menos lo necesario) en un nuevo lenguaje y a demás necesitar aprender a usar la librería que utlice y sus limitante. Solucion: ver cursos de programación en phyton, buscar formas de implementar la librerías y uso de la IA
+- Todo en una sola ventana: desafio: como dije anteriormente el profe quiso específicamente que todo sea una ventana ya que según sus palabras así era mas difícil. Solucion: hacer que las diferentes clases sean frames, limpio la ventana y mando a llamar las diferentes clases
+- Encriptacion de los datos: desafio: las contraseñas de los usuarios necesitaba estar encripatada. Solucion: se uso hash para encriptar las contraseñas
+
+# Como ejecutar:
+- instalar dependencias
+- ejecutar el .exe y poco mas supongo.
+
+# Capturas
+- Login:
+  ![Pantalla de login](./logosunison/login.png)
+- pantalla de inicio:
+  ![Pantalla de inicio](./logosunison/inicio.png)
+- Productos:
+  ![prodcutos](./logosunison/productos.png)
