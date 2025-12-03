@@ -64,4 +64,9 @@ ejemplo:
 - pantalla de inicio:
   ![Pantalla de inicio](./logosunison/inicio.png)
 - Productos:
-  ![prodcutos](./logosunison/productos.png)
+  ![prodcutos](./logosunison/productos1.png)
+- Almacen:
+  ![prodcutos](./logosunison/almacen.png)
+
+# Conclusion
+En conclusión phyton no es el mejor lenguaje para programar interfaces graficas pero aprendimos a utilizar de manera practica lo aprendido de la materia (por ejemplo la creación de las tablas, juntar datos, etc.) y tener experiencias mas cercanas a lo que tendremos en el ámbito profesional con la creación del .exe o el github
