@@ -36,3 +36,15 @@ el sistema esta basado en diferentes clases
 # Base de Datos:
 - Usuarios: esta es la tabla que contiene los usuarios y sus contrañas
 - Almacenes: contiene la id y el nombre del almacen
+- Productos: contiene la id, nombre, precio, departamento, almacen
+
+# Roles:
+el programa tiene 3 usuarios anteriormente que son admin,productos, almacen
+-Admin tiene los permisos para editar,agregar o eliminar de la tabla de productos y almacen
+-Almacen: tiene los permisos para editar,agregar o eliminar de la tabla de almacen pero no productos
+-Productos: tiene los permisos para editar, agregar o eliminar de la tabla de productos pero no de almacenes
+
+# Interfaz:
+la interfaz utiliza el framework de CTinker
+ejemplo:
+![Pantalla de inicio](inicio.png)
