@@ -32,4 +32,7 @@ el sistema esta basado en diferentes clases
 - Menu principal: es el menu que conecta las dos tablas de la base de datos, no tiene funcionalidad extra
 - Productos: funciona como interfaz grafica a la tabla de productos con el crud funcional
 - Almacen: funciona como interfaz grafica a la tabla de almacen con el crud funcional
-  
+
+# Base de Datos:
+- Usuarios: esta es la tabla que contiene los usuarios y sus contrañas
+- Almacenes: contiene la id y el nombre del almacen
